@@ -1,5 +1,6 @@
 'use strict';
 
+function myFunction(){
 var user = prompt('What is your name ?');
 alert('Welcome'+user);
 var Name = prompt('your name is bisher nobani? Y/N');
@@ -126,5 +127,6 @@ for (var x=0; x<6;x++)
 alert('here is the right answers ' + fav_country);
 
 
+}
 
-
+myFunction();
