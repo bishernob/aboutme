@@ -1,20 +1,41 @@
 body{
     background-color: darkgray;
-
+    padding: 20px;
+    margin: 20px;
 }
-
+header{
+    padding: 50px;
+    margin: 50px;
+}
 h1{
     color:blue ;
 
 }
 #aboutme{
     color: darkred;
+    padding: 50px;
+    margin: 50px;
+    font-size: 30px;
 }
 
 li{
-
-    color: deeppink;
-    font-size: 100px;
-
+    display: block;
+    color: darkred;
+    padding: 200px;
+    margin: 200px;
+    
+    
+}
+.top-10{
+    padding: 200px;
+    margin: 200px;
+    border-width: 3px;
+    border-style: dashed;
 }
 
+
+.last_paragraph{
+    padding: 50px;
+    margin: 50px;
+    font-size: 30px;
+}
